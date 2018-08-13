@@ -1,8 +1,8 @@
 package main
 
 import (
-	"PPGo_ApiAdmin/models"
-	_ "PPGo_ApiAdmin/routers"
+	"GmTools/models"
+	_ "GmTools/routers"
 
 	"github.com/astaxie/beego"
 )
